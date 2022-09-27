@@ -1,0 +1,4 @@
+image:
+  repository: mnist-api
+  pullPolicy: Never
+  tag: latest
